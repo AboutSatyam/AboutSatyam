@@ -4,7 +4,7 @@ I build backend applications with Java, Spring Boot, Microservices, and DevOps.
 
 Java Backend Developer · Spring Boot · Microservices · DevOps
 
-"GitHub" (https://github.com/) · "LinkedIn" (https://www.linkedin.com/in/satyam-pandey-42200a374/)
+ •"LinkedIn":-(https://www.linkedin.com/in/satyam-pandey-42200a374/)
 
 ---
 
@@ -23,31 +23,31 @@ Java Backend Developer · Spring Boot · Microservices · DevOps
 
 🛠️ Tech Stack
 
-Languages
+•Languages
 
 "Java" · "SQL" · "JavaScript"
 
-Backend
+•Backend
 
 "Spring Boot" · "Spring MVC" · "REST API" · "Servlet" · "Hibernate" · "JDBC"
 
-Database
+•Database
 
 "MySQL"
 
-DevOps & Tools
+•DevOps & Tools
 
 "Git" · "GitHub" · "Maven" · "Gradle" · "Docker" · "Linux" · "CI/CD"
 
-Testing
+•Testing
 
-"JUnit 5" · "Mockito"
+"JUnit 5"
 
-Frontend
+•Frontend
 
 "HTML" · "CSS" · "JavaScript" · "React"
 
-Currently Learning
+•Currently Learning
 
 "Spring Boot" · "Microservices" · "DevOps" · "Cloud"
 
