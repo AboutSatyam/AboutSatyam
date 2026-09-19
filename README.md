@@ -13,7 +13,7 @@ Java Backend Developer · Spring Boot · Microservices · DevOps
 
 - [ ] OOPs
 - [ ] Core Java
-- [x] SQL & JDBC
+- [ ] SQL & JDBC
 - [ ] Maven & Gradle
 - [ ] JUnit 5
 - [ ] Servlet
