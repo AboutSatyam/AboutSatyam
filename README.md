@@ -6,52 +6,52 @@ Java Backend Developer · Spring Boot · Microservices · DevOps
 
  •"LinkedIn":-(https://www.linkedin.com/in/satyam-pandey-42200a374/)
 
----
 
-👨‍💻 About Satyam
+# 🚀 Java Full Stack Development
 
-- ☕ Building applications with Java & Spring Boot
-- 🚀 Learning and building Microservices
-- ⚙️ Exploring DevOps, Docker, CI/CD & Cloud
-- 🗄️ Working with SQL, JDBC, Hibernate & REST APIs
-- 🧪 Learning JUnit 5 & Mockito
-- 🌐 Familiar with HTML, CSS, JavaScript & React
-- 🧠 Have a basic understanding of DSA
-- 🎯 Focused on becoming a strong Java Backend Engineer
+## ☕ Java Backend
 
----
+- [ ] OOPs
+- [ ] Core Java
+- [x] SQL & JDBC
+- [ ] Maven & Gradle
+- [ ] JUnit 5
+- [ ] Servlet
+- [ ] Hibernate
 
-🛠️ Tech Stack
+## 🌱 Spring Framework
 
-•Languages
+- [ ] Spring Core & Spring Boot
+- [ ] Spring JPA
+- [ ] Spring Web MVC
+- [ ] Spring REST
+- [ ] Spring AOP
+- [ ] Spring Security
+- [ ] Spring AI
+- [ ] Microservices
 
-"Java" · "SQL" · "JavaScript"
+## 🧠 DSA
 
-•Backend
+- [ ] DSA
 
-"Spring Boot" · "Spring MVC" · "REST API" · "Servlet" · "Hibernate" · "JDBC"
+## 🌐 Frontend
 
-•Database
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] React
 
-"MySQL"
+## 🚀 DevOps & Cloud
 
-•DevOps & Tools
+- [ ] DevOps
+- [ ] Docker
+- [ ] Cloud
+- [ ] 4 Important Topics
 
-"Git" · "GitHub" · "Maven" · "Gradle" · "Docker" · "Linux" · "CI/CD"
+## 💻 Projects
 
-•Testing
+- [ ] Final Project
 
-"JUnit 5"
-
-•Frontend
-
-"HTML" · "CSS" · "JavaScript" · "React"
-
-•Currently Learning
-
-"Spring Boot" · "Microservices" · "DevOps" · "Cloud"
-
----
 
 🤝 Connect With Me
 
