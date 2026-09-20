@@ -1,6 +1,6 @@
 # Hi, I'm Satyam Pandey 👋
 
-### Java Backend Developer · Spring Boot · Microservices · DevOps
+### Java Backend Developer · Spring Boot · Microservices · Web Stack · DevOps
 
 Currently learning and building backend applications with **Java, Spring Boot, Microservices, and DevOps**.
 
