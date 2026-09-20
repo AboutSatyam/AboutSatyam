@@ -1,10 +1,25 @@
-Hi, I'm Satyam Pandey 👋
+# Hi, I'm Satyam Pandey 👋
 
-Currently Learning backend Stack with Java, Spring Boot, Microservices, and DevOps.
+### Java Backend Developer · Spring Boot · Microservices · DevOps
 
-Java Backend Developer · Spring Boot · Microservices · DevOps
+Currently learning and building backend applications with **Java, Spring Boot, Microservices, and DevOps**.
 
- •"LinkedIn":-(https://www.linkedin.com/in/satyam-pandey-42200a374/)
+**LinkedIn:** [Satyam Pandey](https://www.linkedin.com/in/satyam-pandey-42200a374/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📚 Learning Repositories
+
+- [Java Learning](https://github.com/AboutSatyam/Java-Learning)
+- [Java DSA Learning](https://github.com/AboutSatyam/Java-DSA-Learning)
+- [Spring Boot & Microservices](https://github.com/AboutSatyam/SpringBoot-MS-Learning)
+- [Web Stack Learning](https://github.com/AboutSatyam/Web-Stack-Learning)
+- [DevOps Learning](https://github.com/AboutSatyam/DevOps-Learning)
+- [LeetCode AutoSync](https://github.com/AboutSatyam/LeetCode-AutoSync)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # 🚀 Java Full Stack Development
@@ -53,23 +68,9 @@ Java Backend Developer · Spring Boot · Microservices · DevOps
 - [ ] Final Project
 
 
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 📚 Learning Repositories
-
-- [Java Learning](https://github.com/AboutSatyam/Java-Learning)
-- [Java DSA Learning](https://github.com/AboutSatyam/Java-DSA-Learning)
-- [Spring Boot & Microservices](https://github.com/AboutSatyam/SpringBoot-MS-Learning)
-- [Web Stack Learning](https://github.com/AboutSatyam/Web-Stack-Learning)
-- [DevOps Learning](https://github.com/AboutSatyam/DevOps-Learning)
-- [LeetCode AutoSync](https://github.com/AboutSatyam/LeetCode-AutoSync)
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 🤝 Connect With Me
 
