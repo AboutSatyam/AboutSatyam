@@ -56,6 +56,18 @@ Java Backend Developer · Spring Boot · Microservices · DevOps
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📚 Learning Repositories
+
+- [Java Learning](https://github.com/AboutSatyam/Java-Learning)
+- [Java DSA Learning](https://github.com/AboutSatyam/Java-DSA-Learning)
+- [Spring Boot & Microservices](https://github.com/AboutSatyam/SpringBoot-MS-Learning)
+- [Web Stack Learning](https://github.com/AboutSatyam/Web-Stack-Learning)
+- [DevOps Learning](https://github.com/AboutSatyam/DevOps-Learning)
+- [LeetCode AutoSync](https://github.com/AboutSatyam/LeetCode-AutoSync)
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
