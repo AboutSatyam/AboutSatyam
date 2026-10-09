@@ -61,7 +61,7 @@ Currently learning and building backend applications with **Java, Spring Boot, M
 - [ ] DevOps
 - [ ] Docker
 - [ ] Cloud
-- [ ] 4 Important Topics
+- [ ] 4 Core Topics
 
 ## 💻 Projects
 
