@@ -26,13 +26,13 @@ Currently learning and building backend applications with **Java, Spring Boot, M
 
 ## ☕ Java Backend
 
-- [ ] OOPs
-- [ ] Core Java
-- [ ] SQL & JDBC
-- [ ] Maven & Gradle
-- [ ] JUnit 5
-- [ ] Servlet
-- [ ] Hibernate
+- [x] OOPs
+- [x] Core Java
+- [x] SQL & JDBC
+- [x] Maven & Gradle
+- [x] JUnit 5
+- [x] Servlet
+- [x] Hibernate
 
 ## 🌱 Spring Framework
 
