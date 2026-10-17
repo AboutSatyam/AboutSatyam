@@ -9,15 +9,20 @@ Currently learning and building backend applications with **Java, Spring Boot, M
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📚 Learning Repositories
+## 📚 Learning Repo
 
 - [Java Learning](https://github.com/AboutSatyam/Java-Learning)
 - [Java DSA Learning](https://github.com/AboutSatyam/Java-DSA-Learning)
 - [Spring Boot & Microservices](https://github.com/AboutSatyam/SpringBoot-MS-Learning)
 - [Web Stack Learning](https://github.com/AboutSatyam/Web-Stack-Learning)
 - [DevOps Learning](https://github.com/AboutSatyam/DevOps-Learning)
-- [Bank Management System](https://github.com/AboutSatyam/Bank-Management-System--Java)
 - [LeetCode AutoSync](https://github.com/AboutSatyam/LeetCode-AutoSync)
+
+
+## 📚 Project Repo
+
+- [Bank Management System](https://github.com/AboutSatyam/Bank-Management-System--Java)
+- [Navin Sir Face](https://github.com/AboutSatyam/PatternProg-NavinSir)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
