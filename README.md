@@ -18,7 +18,7 @@ Currently learning and building backend applications with **Java, Spring Boot, M
 - [DevOps Learning](https://github.com/AboutSatyam/DevOps-Learning)
 - [LeetCode AutoSync](https://github.com/AboutSatyam/LeetCode-AutoSync)
 
-## 📚 Learning Repo
+## 📚 SpringBoot Repo
 
 - [Spring-Core](https://github.com/AboutSatyam/01-SpringCore)
 - [SpringData-JPA](https://github.com/AboutSatyam/02-SpringJPA)
