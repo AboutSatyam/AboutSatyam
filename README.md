@@ -46,8 +46,8 @@ Currently learning and building backend applications with **Java, Spring Boot, M
 
 ## 🌱 Spring Framework
 
-- [ ] Spring Core & Spring Boot
-- [ ] Spring JPA
+- [x] Spring Core & Spring Boot
+- [x] Spring JPA
 - [ ] Spring Web MVC
 - [ ] Spring REST
 - [ ] Spring AOP
